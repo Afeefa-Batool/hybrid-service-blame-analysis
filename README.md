@@ -21,7 +21,7 @@ hybrid-service-blame-analysis/
 |-- README.md
 |-- requirements.txt
 |-- assets/
-|   `-- workflow_pipeline.svg             # pipeline flowchart
+|   `-- workflow_architecture_cartoon.png # cartoon architecture diagram
 `-- src/
     |-- data_generator.py
     |-- nlp_pipeline.py
@@ -68,7 +68,7 @@ jupyter notebook Hybrid_Service_Blame_Analysis.ipynb
 6. Second-stage outcome models with control-function residual.
 7. Report effect sizes and visualize results.
 
-See `assets/workflow_pipeline.png` for the full flow.
+See `assets/workflow_architecture_cartoon.png` for the full flow.
 
 ## Modern Python stack used
 

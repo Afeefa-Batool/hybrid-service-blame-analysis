@@ -33,7 +33,7 @@ The pipeline supports practical recommendations from the paper:
 ## Deliverables
 - Google Colab notebook (`Hybrid_Service_Blame_Analysis.ipynb`)
 - README with setup and run instructions
-- Workflow diagram (`assets/workflow_pipeline.png`)
+- Architecture diagram (`assets/workflow_architecture_cartoon.png`)
 - Modular Python source (`src/`)
 
 ## Limitations (Transparent)
